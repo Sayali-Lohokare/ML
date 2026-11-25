@@ -25,3 +25,4 @@ print(a.reshape(3,1) + np.array([0,1,2])) # reshaping the array 'a' to a column 
 # [30 31 32]]
 print(a.shape)
 
+
